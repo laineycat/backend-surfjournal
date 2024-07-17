@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     "corsheaders",
     "rest_framework",
     "surfjournal",
-    'django.contrib.staticfiles',
+    'staticfiles',
 ]
 
 MIDDLEWARE = [
